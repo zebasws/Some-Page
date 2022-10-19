@@ -1,0 +1,10 @@
+body {
+    background-color: #212121;
+    color: white;
+}
+footer {
+    color: rgba(245, 245, 245, 0.492);
+}
+img {
+    border-radius: 50%;
+  }
